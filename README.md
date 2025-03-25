@@ -70,5 +70,6 @@ plt.show()
 ## **Output:**
 ![natural sampling op](https://github.com/user-attachments/assets/cfd0d9d4-d197-4cac-8e1f-aebd5ced5142)
 
+
 ## **Result:**
 The Construction and Re-Construction of Natutal sampling using python are verified
